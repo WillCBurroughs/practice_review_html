@@ -1,0 +1,22 @@
+* {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif, Georgia, 'Times New Roman', Times;
+}
+
+a {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 40px;
+    font-weight: 700px;
+}
+
+li {
+    font-size: 20px;
+}
